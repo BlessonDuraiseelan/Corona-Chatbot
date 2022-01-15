@@ -1,4 +1,4 @@
-# Corona-Chatbot
+# Corona Chatbot
 
 This chatbot is created to be able to answer queries and doubts realted to Corona Virus.
 The app is built using the ChatterBot that makes it easy to generate automated responses to a user’s input.
