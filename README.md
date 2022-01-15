@@ -8,5 +8,10 @@ ChattererBot comes with built in adapter classes that allow it to connect to dif
 
 Once we have completed the chatbot file then we will design a flask app that will be use the chatbot file. In the app there is a section of gwtting the user's input which will be redirected to the chatbot file to get the desired answer.
 
+![image](https://user-images.githubusercontent.com/76935226/149617401-00abae2a-cf83-4a58-885e-76a22532825b.png)
+![image](https://user-images.githubusercontent.com/76935226/149617410-38eb7058-b7ca-4739-9019-86336e20b8c5.png)
+![image](https://user-images.githubusercontent.com/76935226/149617413-d447af63-0306-47e9-b2b2-3b6605167660.png)
+
+
 ![Screenshot (159)](https://user-images.githubusercontent.com/76935226/147967298-a0d0ba3d-22a9-4802-9752-4464e81cf14e.png)
 ![Screenshot (160)](https://user-images.githubusercontent.com/76935226/147967141-5892238a-9a88-495a-8f04-ac4337060672.png)
